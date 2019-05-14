@@ -1,0 +1,1 @@
+Swagatron,234.0,234000.0,34.0,93.2,1,neptune.png

@@ -1,0 +1,1 @@
+new plannet,45.0,45000.0,53.0,127.4,2,neptune.png
